@@ -1,0 +1,31 @@
+.hero_after_banner {
+    background: #115293;
+    border-radius: 20px;
+}
+.img_area{
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.img_area img {
+    width: 100%;
+    height: auto;
+}
+.text_area{
+    height:100%;
+    margin-top:5%;
+}
+.text_area h4{
+    text-align: center;
+    color:#FFFFFF;
+    padding: 10px 0;
+}
+.text_area p{
+    text-align: center;
+    color:#FFFFFF;
+    padding: 10px 0;
+}
+.text_area .btn_area {
+    text-align: center;
+    padding: 5px 0;
+}

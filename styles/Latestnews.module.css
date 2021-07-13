@@ -1,0 +1,38 @@
+.latest_news{
+    padding: 5rem 0;
+}
+.section_heading h2{
+    color: #2d3748;
+    font-size: 2.0243rem;
+    font-weight: bold;
+    line-height: 2;
+}
+.section_heading p{
+    color:#718096;
+    font-size: 1.25rem;
+    margin-bottom: 3rem;
+}
+.blog_area{
+    position: relative;
+    height: 384px;
+    margin-bottom: 1.4rem;
+}
+.text_area{
+    width: 100%;
+    position: absolute;
+    background-color: #0000007a;
+    bottom: 0px;
+    left: 0px;
+    color: #ffffff;
+    padding:16px;
+    border-radius:0px 0px 8px 8px;
+}
+.text_area h3{
+    font-size: 1.25rem;
+}
+.blog_area img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    border-radius:8px
+}

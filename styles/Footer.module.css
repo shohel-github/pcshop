@@ -1,0 +1,50 @@
+.footer_section{
+  background:#1B1642;
+  position: relative;
+  float: left;
+  width: 100%;
+  padding: 6rem 0;
+}
+.social{
+  margin:1rem 0;
+}
+.social ul{
+  padding: 0;
+  margin: 0;
+}
+.social ul li{
+  display: block;
+  float: left;
+}
+.social ul li a{
+  padding: 2px;
+  color: #fff;
+  text-decoration: none;
+}
+.social ul li a i {
+  font-size: 16px;
+  color: #A4A2B3;
+  border: 1px solid #A4A2B3;
+  padding: 5px 9px;
+  border-radius:6px;
+}
+.menu_group{
+  margin-bottom: 1rem;
+}
+.menu_group p{
+  color: #ffffff;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+.menu_group ul{
+  padding:0;
+  margin:0;
+}
+.menu_group ul li{
+  list-style: none;
+}
+.menu_group ul li a{
+  text-decoration: none;
+  color: #a4a2b3;
+  font-size: 14px;
+}

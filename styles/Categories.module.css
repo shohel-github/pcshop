@@ -1,0 +1,35 @@
+.categories{
+    margin: 100px 0;
+}
+.section_title{
+    padding-top: 5px;
+    padding-bottom: 16px;
+}
+.section_title h2 {
+    color: #2d3748;
+    line-height: 1.235;
+    font-weight: bold;
+    font-size: 2.0243rem;
+}
+.cat_area{
+    text-align: center;
+    padding:39px 0;
+    background: #F7F9FA;
+    border-radius:16px;
+    transition:box-shadow .25s ease,transform .25s ease,-webkit-transform .25s ease;
+    margin:20px 0;
+}
+.cat_area:hover{
+    transform: translate3d(0,-5px,0);
+    box-shadow: 0 1.5rem 2.5rem rgb(22 28 45 / 10%), 0 0.3rem 0.5rem -0.5rem rgb(22 28 45 / 5%) !important;
+}
+.cat_icon{
+    padding:20px 0;
+}
+.cat_title{
+    padding:20px 0;
+}
+.cat_title h3{
+    font-size:18px;
+    font-weight: 400;
+}

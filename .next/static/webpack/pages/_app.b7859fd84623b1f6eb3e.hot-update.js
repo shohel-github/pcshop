@@ -1,0 +1,566 @@
+self["webpackHotUpdate_N_E"]("pages/_app",{
+
+/***/ "./components/Footer.js":
+/*!******************************!*\
+  !*** ./components/Footer.js ***!
+  \******************************/
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ "./node_modules/react/jsx-dev-runtime.js");
+/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _styles_Footer_module_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../styles/Footer.module.css */ "./styles/Footer.module.css");
+/* harmony import */ var _styles_Footer_module_css__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_styles_Footer_module_css__WEBPACK_IMPORTED_MODULE_1__);
+/* module decorator */ module = __webpack_require__.hmd(module);
+
+
+var _jsxFileName = "E:\\xampp\\htdocs\\www\\Next JS Projects\\pcshop\\components\\Footer.js",
+    _this = undefined;
+
+// import Image from 'next/image'
+
+
+var Footer = function Footer() {
+  return /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+      className: "".concat((_styles_Footer_module_css__WEBPACK_IMPORTED_MODULE_1___default().footer_section)),
+      children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+        className: "container",
+        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+          className: "row",
+          children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+            className: "col-md-2",
+            children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+              className: "logo",
+              children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("img", {
+                src: "/logo-negative.svg",
+                alt: "Vercel Logo",
+                width: "144",
+                height: "32"
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 12,
+                columnNumber: 33
+              }, _this)
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 11,
+              columnNumber: 29
+            }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+              className: "".concat((_styles_Footer_module_css__WEBPACK_IMPORTED_MODULE_1___default().social)),
+              children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("ul", {
+                children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                  children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                    href: "",
+                    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("i", {
+                      className: "fa fa-facebook"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 16,
+                      columnNumber: 52
+                    }, _this)
+                  }, void 0, false, {
+                    fileName: _jsxFileName,
+                    lineNumber: 16,
+                    columnNumber: 41
+                  }, _this)
+                }, void 0, false, {
+                  fileName: _jsxFileName,
+                  lineNumber: 16,
+                  columnNumber: 37
+                }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                  children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                    href: "",
+                    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("i", {
+                      className: "fa fa-facebook"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 17,
+                      columnNumber: 52
+                    }, _this)
+                  }, void 0, false, {
+                    fileName: _jsxFileName,
+                    lineNumber: 17,
+                    columnNumber: 41
+                  }, _this)
+                }, void 0, false, {
+                  fileName: _jsxFileName,
+                  lineNumber: 17,
+                  columnNumber: 37
+                }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                  children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                    href: "",
+                    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("i", {
+                      className: "fa fa-facebook"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 18,
+                      columnNumber: 52
+                    }, _this)
+                  }, void 0, false, {
+                    fileName: _jsxFileName,
+                    lineNumber: 18,
+                    columnNumber: 41
+                  }, _this)
+                }, void 0, false, {
+                  fileName: _jsxFileName,
+                  lineNumber: 18,
+                  columnNumber: 37
+                }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                  children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                    href: "",
+                    children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("i", {
+                      className: "fa fa-facebook"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 19,
+                      columnNumber: 52
+                    }, _this)
+                  }, void 0, false, {
+                    fileName: _jsxFileName,
+                    lineNumber: 19,
+                    columnNumber: 41
+                  }, _this)
+                }, void 0, false, {
+                  fileName: _jsxFileName,
+                  lineNumber: 19,
+                  columnNumber: 37
+                }, _this)]
+              }, void 0, true, {
+                fileName: _jsxFileName,
+                lineNumber: 15,
+                columnNumber: 33
+              }, _this)
+            }, void 0, false, {
+              fileName: _jsxFileName,
+              lineNumber: 14,
+              columnNumber: 29
+            }, _this)]
+          }, void 0, true, {
+            fileName: _jsxFileName,
+            lineNumber: 10,
+            columnNumber: 25
+          }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+            className: "col-md-3",
+            children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+              className: "row",
+              children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+                className: "col-md-6",
+                children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+                  className: "footer_menu_area",
+                  children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+                    className: "".concat((_styles_Footer_module_css__WEBPACK_IMPORTED_MODULE_1___default().menu_group)),
+                    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("p", {
+                      children: "Services"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 28,
+                      columnNumber: 45
+                    }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("ul", {
+                      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Coworking"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 30,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 30,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Rental"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 31,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 31,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Job Listing"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 32,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 32,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "E-Learning"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 33,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 33,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "E-Commerce"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 34,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 34,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Expo"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 35,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 35,
+                        columnNumber: 49
+                      }, _this)]
+                    }, void 0, true, {
+                      fileName: _jsxFileName,
+                      lineNumber: 29,
+                      columnNumber: 45
+                    }, _this)]
+                  }, void 0, true, {
+                    fileName: _jsxFileName,
+                    lineNumber: 27,
+                    columnNumber: 41
+                  }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+                    className: "".concat((_styles_Footer_module_css__WEBPACK_IMPORTED_MODULE_1___default().menu_group)),
+                    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("p", {
+                      children: "Apps"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 39,
+                      columnNumber: 45
+                    }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("ul", {
+                      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Desktop App"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 41,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 41,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Mobile App"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 42,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 42,
+                        columnNumber: 49
+                      }, _this)]
+                    }, void 0, true, {
+                      fileName: _jsxFileName,
+                      lineNumber: 40,
+                      columnNumber: 45
+                    }, _this)]
+                  }, void 0, true, {
+                    fileName: _jsxFileName,
+                    lineNumber: 38,
+                    columnNumber: 41
+                  }, _this)]
+                }, void 0, true, {
+                  fileName: _jsxFileName,
+                  lineNumber: 26,
+                  columnNumber: 37
+                }, _this)
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 25,
+                columnNumber: 33
+              }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+                className: "col-md-6",
+                children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+                  className: "footer_menu_area",
+                  children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("div", {
+                    className: "".concat((_styles_Footer_module_css__WEBPACK_IMPORTED_MODULE_1___default().menu_group)),
+                    children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("p", {
+                      children: "Web"
+                    }, void 0, false, {
+                      fileName: _jsxFileName,
+                      lineNumber: 50,
+                      columnNumber: 45
+                    }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("ul", {
+                      children: [/*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Marketing"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 52,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 52,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Overview"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 53,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 53,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Basic"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 54,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 54,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Service"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 55,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 55,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Startup"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 56,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 56,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Enterprise"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 57,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 57,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Cloud Hosting"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 58,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 58,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Agency"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 59,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 59,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Design Company"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 60,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 60,
+                        columnNumber: 49
+                      }, _this), /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("li", {
+                        children: /*#__PURE__*/(0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)("a", {
+                          href: "",
+                          children: "Logistics"
+                        }, void 0, false, {
+                          fileName: _jsxFileName,
+                          lineNumber: 61,
+                          columnNumber: 53
+                        }, _this)
+                      }, void 0, false, {
+                        fileName: _jsxFileName,
+                        lineNumber: 61,
+                        columnNumber: 49
+                      }, _this)]
+                    }, void 0, true, {
+                      fileName: _jsxFileName,
+                      lineNumber: 51,
+                      columnNumber: 45
+                    }, _this)]
+                  }, void 0, true, {
+                    fileName: _jsxFileName,
+                    lineNumber: 49,
+                    columnNumber: 41
+                  }, _this)
+                }, void 0, false, {
+                  fileName: _jsxFileName,
+                  lineNumber: 48,
+                  columnNumber: 37
+                }, _this)
+              }, void 0, false, {
+                fileName: _jsxFileName,
+                lineNumber: 47,
+                columnNumber: 33
+              }, _this)]
+            }, void 0, true, {
+              fileName: _jsxFileName,
+              lineNumber: 24,
+              columnNumber: 29
+            }, _this)
+          }, void 0, false, {
+            fileName: _jsxFileName,
+            lineNumber: 23,
+            columnNumber: 25
+          }, _this)]
+        }, void 0, true, {
+          fileName: _jsxFileName,
+          lineNumber: 9,
+          columnNumber: 21
+        }, _this)
+      }, void 0, false, {
+        fileName: _jsxFileName,
+        lineNumber: 8,
+        columnNumber: 16
+      }, _this)
+    }, void 0, false, {
+      fileName: _jsxFileName,
+      lineNumber: 7,
+      columnNumber: 12
+    }, _this)
+  }, void 0, false, {
+    fileName: _jsxFileName,
+    lineNumber: 6,
+    columnNumber: 9
+  }, _this);
+};
+
+_c = Footer;
+/* harmony default export */ __webpack_exports__["default"] = (Footer);
+
+var _c;
+
+$RefreshReg$(_c, "Footer");
+
+;
+    var _a, _b;
+    // Legacy CSS implementations will `eval` browser code in a Node.js context
+    // to extract CSS. For backwards compatibility, we need to check we're in a
+    // browser context before continuing.
+    if (typeof self !== 'undefined' &&
+        // AMP / No-JS mode does not inject these helpers:
+        '$RefreshHelpers$' in self) {
+        var currentExports = module.__proto__.exports;
+        var prevExports = (_b = (_a = module.hot.data) === null || _a === void 0 ? void 0 : _a.prevExports) !== null && _b !== void 0 ? _b : null;
+        // This cannot happen in MainTemplate because the exports mismatch between
+        // templating and execution.
+        self.$RefreshHelpers$.registerExportsForReactRefresh(currentExports, module.id);
+        // A module can be accepted automatically based on its exports, e.g. when
+        // it is a Refresh Boundary.
+        if (self.$RefreshHelpers$.isReactRefreshBoundary(currentExports)) {
+            // Save the previous exports on update so we can compare the boundary
+            // signatures.
+            module.hot.dispose(function (data) {
+                data.prevExports = currentExports;
+            });
+            // Unconditionally accept an update to this module, we'll check if it's
+            // still a Refresh Boundary later.
+            module.hot.accept();
+            // This field is set when the previous version of this module was a
+            // Refresh Boundary, letting us know we need to check for invalidation or
+            // enqueue an update.
+            if (prevExports !== null) {
+                // A boundary can become ineligible if its exports are incompatible
+                // with the previous exports.
+                //
+                // For example, if you add/remove/change exports, we'll want to
+                // re-execute the importing modules, and force those components to
+                // re-render. Similarly, if you convert a class component to a
+                // function, we want to invalidate the boundary.
+                if (self.$RefreshHelpers$.shouldInvalidateReactRefreshBoundary(prevExports, currentExports)) {
+                    module.hot.invalidate();
+                }
+                else {
+                    self.$RefreshHelpers$.scheduleUpdate();
+                }
+            }
+        }
+        else {
+            // Since we just executed the code for the module, it's possible that the
+            // new exports made it ineligible for being a boundary.
+            // We only care about the case when we were _previously_ a boundary,
+            // because we already accepted this update (accidental side effect).
+            var isNoLongerABoundary = prevExports !== null;
+            if (isNoLongerABoundary) {
+                module.hot.invalidate();
+            }
+        }
+    }
+
+
+/***/ })
+
+});
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9fTl9FLy4vY29tcG9uZW50cy9Gb290ZXIuanMiXSwibmFtZXMiOlsiRm9vdGVyIiwic3R5bGUiXSwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBQUE7QUFDQTs7QUFFQSxJQUFNQSxNQUFNLEdBQUcsU0FBVEEsTUFBUyxHQUFNO0FBQ2pCLHNCQUNJO0FBQUEsMkJBQ0c7QUFBSyxlQUFTLFlBQUtDLGlGQUFMLENBQWQ7QUFBQSw2QkFDSTtBQUFLLGlCQUFTLGFBQWQ7QUFBQSwrQkFDSztBQUFLLG1CQUFTLE9BQWQ7QUFBQSxrQ0FDSTtBQUFLLHFCQUFTLFlBQWQ7QUFBQSxvQ0FDSTtBQUFLLHVCQUFTLFFBQWQ7QUFBQSxxQ0FDSTtBQUFLLG1CQUFHLEVBQUMsb0JBQVQ7QUFBOEIsbUJBQUcsRUFBQyxhQUFsQztBQUFnRCxxQkFBSyxFQUFDLEtBQXREO0FBQTRELHNCQUFNLEVBQUM7QUFBbkU7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQURKO0FBQUE7QUFBQTtBQUFBO0FBQUEscUJBREosZUFJSTtBQUFLLHVCQUFTLFlBQUtBLHlFQUFMLENBQWQ7QUFBQSxxQ0FDSTtBQUFBLHdDQUNJO0FBQUEseUNBQUk7QUFBRyx3QkFBSSxFQUFDLEVBQVI7QUFBQSwyQ0FBVztBQUFHLCtCQUFTO0FBQVo7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFYO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFBSjtBQUFBO0FBQUE7QUFBQTtBQUFBLHlCQURKLGVBRUk7QUFBQSx5Q0FBSTtBQUFHLHdCQUFJLEVBQUMsRUFBUjtBQUFBLDJDQUFXO0FBQUcsK0JBQVM7QUFBWjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQVg7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFKO0FBQUE7QUFBQTtBQUFBO0FBQUEseUJBRkosZUFHSTtBQUFBLHlDQUFJO0FBQUcsd0JBQUksRUFBQyxFQUFSO0FBQUEsMkNBQVc7QUFBRywrQkFBUztBQUFaO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFB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QUE7QUFBQTtBQUFBO0FBQUE7QUFESjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBREo7QUFBQTtBQUFBO0FBQUE7QUFBQSx1QkF2Qko7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBREo7QUFBQTtBQUFBO0FBQUE7QUFBQSxtQkFkSjtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBQUE7QUFETDtBQUFBO0FBQUE7QUFBQTtBQUFBO0FBREo7QUFBQTtBQUFBO0FBQUE7QUFBQTtBQURIO0FBQUE7QUFBQTtBQUFBO0FBQUEsV0FESjtBQXlFSCxDQTFFRDs7S0FBTUQsTTtBQTRFTiwrREFBZUEsTUFBZiIsImZpbGUiOiJzdGF0aWMvd2VicGFjay9wYWdlcy9fYXBwLmI3ODU5ZmQ4NDYyM2IxZjZlYjNlLmhvdC11cGRhdGUuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBpbXBvcnQgSW1hZ2UgZnJvbSAnbmV4dC9pbWFnZSdcclxuaW1wb3J0IHN0eWxlIGZyb20gJy4uL3N0eWxlcy9Gb290ZXIubW9kdWxlLmNzcydcclxuXHJcbmNvbnN0IEZvb3RlciA9ICgpID0+IHtcclxuICAgIHJldHVybiAoXHJcbiAgICAgICAgPGRpdj5cclxuICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17YCR7c3R5bGUuZm9vdGVyX3NlY3Rpb259YH0+XHJcbiAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgY29udGFpbmVyYH0+XHJcbiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2Byb3dgfT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2Bjb2wtbWQtMmB9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2Bsb2dvYH0+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9XCIvbG9nby1uZWdhdGl2ZS5zdmdcIiBhbHQ9XCJWZXJjZWwgTG9nb1wiIHdpZHRoPVwiMTQ0XCIgaGVpZ2h0PVwiMzJcIi8+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgJHtzdHlsZS5zb2NpYWx9YH0+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVsPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPjxpIGNsYXNzTmFtZT17YGZhIGZhLWZhY2Vib29rYH0+PC9pPjwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPjxpIGNsYXNzTmFtZT17YGZhIGZhLWZhY2Vib29rYH0+PC9pPjwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPjxpIGNsYXNzTmFtZT17YGZhIGZhLWZhY2Vib29rYH0+PC9pPjwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPjxpIGNsYXNzTmFtZT17YGZhIGZhLWZhY2Vib29rYH0+PC9pPjwvYT48L2xpPiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgY29sLW1kLTNgfT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgcm93YH0+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2Bjb2wtbWQtNmB9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17YGZvb3Rlcl9tZW51X2FyZWFgfT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgJHtzdHlsZS5tZW51X2dyb3VwfWB9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPlNlcnZpY2VzPC9wPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bD5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9XCJcIj5Db3dvcmtpbmc8L2E+PC9saT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9XCJcIj5SZW50YWw8L2E+PC9saT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9XCJcIj5Kb2IgTGlzdGluZzwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPkUtTGVhcm5pbmc8L2E+PC9saT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9XCJcIj5FLUNvbW1lcmNlPC9hPjwvbGk+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPVwiXCI+RXhwbzwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgJHtzdHlsZS5tZW51X2dyb3VwfWB9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPkFwcHM8L3A+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVsPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPkRlc2t0b3AgQXBwPC9hPjwvbGk+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPVwiXCI+TW9iaWxlIEFwcDwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzc05hbWU9e2Bjb2wtbWQtNmB9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT17YGZvb3Rlcl9tZW51X2FyZWFgfT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPXtgJHtzdHlsZS5tZW51X2dyb3VwfWB9PlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwPldlYjwvcD5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWw+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPVwiXCI+TWFya2V0aW5nPC9hPjwvbGk+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPVwiXCI+T3ZlcnZpZXc8L2E+PC9saT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9XCJcIj5CYXNpYzwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPlNlcnZpY2U8L2E+PC9saT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9XCJcIj5TdGFydHVwPC9hPjwvbGk+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPVwiXCI+RW50ZXJwcmlzZTwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPkNsb3VkIEhvc3Rpbmc8L2E+PC9saT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9XCJcIj5BZ2VuY3k8L2E+PC9saT5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9XCJcIj5EZXNpZ24gQ29tcGFueTwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj1cIlwiPkxvZ2lzdGljczwvYT48L2xpPlxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdWw+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcblxyXG4gICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgICAgICBcclxuICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+XHJcbiAgICAgICAgICAgICAgICAgICAgICAgIFxyXG4gICAgICAgICAgICAgICAgICAgICAgIFxyXG4gICAgICAgICAgICAgICAgICAgIDwvZGl2PlxyXG4gICAgICAgICAgICAgICA8L2Rpdj5cclxuICAgICAgICAgICAgICAgXHJcbiAgICAgICAgICAgIDwvZGl2PiBcclxuICAgICAgICA8L2Rpdj5cclxuICAgIClcclxufVxyXG5cclxuZXhwb3J0IGRlZmF1bHQgRm9vdGVyXHJcbiJdLCJzb3VyY2VSb290IjoiIn0=
